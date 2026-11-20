@@ -1,0 +1,65 @@
+Part 1: Topic prioritization
+TIER 1: Highest priority
+Master these
+
+These are the topics you should understand properly. Learn definitions, working, formulas, applications and examples.
+1. Descriptive Statistics
+2. Probability: Joint, Conditional and Marginal
+3. Bayes' Theorem
+4. Probability Distributions: Normal, Binomial, Poisson
+5. Central Limit Theorem
+6. Correlation and Covariance
+7. Pearson Correlation
+8. Hypothesis Testing
+9. Z-Test and Chi-Square Test
+10. Regression Analysis
+11. Predictive Modelling
+12. Supervised Segmentation and Decision Trees
+13. Overfitting, Generalization and Cross-Validation
+14. Evaluating Classifiers
+15. Sampling and Estimation
+    
+    TIER 2: Important supporting topics
+    Understand these
+    
+    These topics support Tier 1. Know their definitions, processes, differences and applications.
+16. Data Analytics Life Cycle
+17. Introduction to Business Analytics
+18. Nature of Data and Intelligent Data Analysis
+19. Data Visualization and Exploring Data
+20. Population vs Sample
+21. Uni-variate and Bi-variate Sampling
+22. Resampling
+23. Random Variables
+24. Sample Spaces and Events
+25. Outliers and their treatment
+26. Skewness
+27. Predictive vs Prescriptive Modelling
+28. Identifying Informative Attributes
+29. Probability Estimation
+30. Forecasting Techniques
+31. Simulation and Risk Analysis
+32. Linear and Nonlinear Optimization
+33. Decision Analytics
+34. Evidence and Probabilistic Reasoning
+35. Baseline and Analytical Framework
+    
+    TIER 3: Read once
+    Quick reading
+    
+    Mostly descriptive or specialized topics. Understand the purpose, basic working and one application.
+36. Analysis vs Reporting
+37. Modern Data Analytics Tools
+38. Analytic Processes and Tools
+39. Statistical Interfaces
+40. Benefits and Challenges of Predictive Modelling
+41. Future and Limitations of Predictive Modelling
+42. Predictive Modelling Tools
+43. Installation, Acceptance and Operation
+44. Quality Assurance and Documentation
+45. Factor Analysis
+46. Directional Data Analytics
+47. Functional Data Analysis
+48. Power BI Architecture and Interface
+49. Power Query
+50. Interactive Dashboards and Sharing Insights

@@ -1,0 +1,55 @@
+1. Topic prioritisation
+Tier 1
+ Most important: Study thoroughly
+
+These topics deserve the most preparation. Understand the working, formulas, advantages, limitations and numerical applications.
+Topic	What to prepare
+Linear Regression	Equation, cost function, coefficients, predictions
+Logistic Regression	Sigmoid, probability, classification
+Ridge, Lasso, Elastic Net	Regularisation, L1 vs L2
+K-Means Clustering	Centroids, iterations, WSS, elbow method
+PCA	Variance, eigenvectors, dimensionality reduction
+Decision Trees	Entropy, Information Gain, Gini Index
+Random Forest	Bagging, feature selection, voting
+SVM	Hyperplane, margin, kernels
+KNN	Distance calculations, choosing K
+Naive Bayes	Bayes theorem, conditional probability
+Model Evaluation	Confusion matrix, precision, recall, F1, accuracy
+Time Series	AR, MA, ARMA, ARIMA
+Association Rules	Support, confidence, lift, Apriori
+
+Tier 2
+ Must know: Prepare concepts and associated problems
+Topic	What to prepare
+Data Preprocessing	Cleaning, missing values, encoding, scaling
+Feature Engineering	Feature creation and transformation
+Feature Selection	Filter, wrapper, embedded methods
+Dimensionality Reduction	PCA vs feature selection
+Hierarchical Clustering	Agglomerative, divisive, dendrogram
+DBSCAN	Epsilon, MinPts, core/border/noise
+Polynomial Regression	Polynomial equation, overfitting
+Cross Validation	K-Fold, train/test validation
+Grid Search & Random Search	Hyperparameter optimisation
+Gradient Boosting	Sequential error correction
+Model Stacking	Combining multiple models
+Exponential Smoothing	Forecasting calculations
+Holt's Method	Level and trend
+Holt-Winters	Level, trend, seasonality
+Recommendation Systems	Collaborative filtering, factorisation
+Anomaly Detection	Isolation Forest, anomaly types
+
+Tier 3
+ Read once: Definition and application-level knowledge
+Topic	What to remember
+Machine Learning in Nutshell	Definition, workflow, applications
+Supervised vs Unsupervised	Differences and examples
+ML Applications	Healthcare, finance, retail, etc.
+Evaluating ML Techniques	Why evaluation is required
+t-SNE	Visualisation of high-dimensional data
+Stepwise Regression	Forward and backward selection
+Discriminant Analysis	LDA vs QDA
+Cluster Profiling	Understanding cluster characteristics
+ML in Real-Time	Deployment and real-time predictions
+Data Collection & Storage	Sources and storage
+Data Filtering	Removing irrelevant information
+MRR, MAP@K, NDCG	Recommendation ranking metrics
